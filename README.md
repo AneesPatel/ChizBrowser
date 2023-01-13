@@ -1,5 +1,10 @@
 Chiz Browser cool 
 
+## Roadmap
+ 1. Adding chatGPT and Open AI inbuilt in the browser.
+ 2. Add ability to bypass local firewalls.
+
+
 ## License
 
 The MIT License (MIT)
