@@ -1,4 +1,4 @@
-Chiz Browser cool 
+Chiz Browser 
 
 ## Roadmap
  1. Adding chatGPT and Open AI inbuilt in the browser.
