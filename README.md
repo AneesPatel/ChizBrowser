@@ -1,8 +1,9 @@
 Chiz Browser 
-
+## Summary
+This is a branch of LeafBrowser, but with significant improvements to ChromeOS performance and the ability to run natively on Chromebooks.
 ## Roadmap
  1. Adding chatGPT and Open AI inbuilt in the browser.
- 2. Add ability to bypass local firewalls.
+
 
 
 ## License
